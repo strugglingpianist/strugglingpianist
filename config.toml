@@ -1,0 +1,18 @@
+baseurl = "http://strugglingpianist.com/"
+languageCode = "en-us"
+title = "Struggling Pianist"
+theme = "casper"
+DisqusShortname = "strugglingpianist"
+googleAnalyticsUserID = "UA-71040628-1"
+[params]
+  description = "How to piano - A blog"
+  cover = "images/cover_blurry.jpg"
+  author = "Struggling Pianist"
+  authorlocation = "Helsinki, Finland"
+  authorwebsite = "http://strugglingpianist.com"
+  bio = "Config Bio goes here."
+  logo = "images/logo.png"
+  twitterName = "StrugglingPiano"
+  youtubeName = "Struggling Pianist"
+
+
